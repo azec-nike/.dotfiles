@@ -1,0 +1,60 @@
+"*":
+  "atom-terminal":
+    app: "iTerm.app"
+  "auto-detect-indentation":
+    indentationTypes: [
+      {
+        name: "4 soft tabs indent"
+        softTabs: true
+        tabLength: 4
+      }
+      {
+        name: "2 soft tabs indent"
+        softTabs: true
+        tabLength: 2
+      }
+    ]
+  "autocomplete-python":
+    useSnippets: "required"
+  core:
+    disabledPackages: [
+      "linter"
+      "language-gfm"
+      "autocomplete-plus"
+      "autocomplete-snippets"
+      "markdown-preview"
+    ]
+    telemetryConsent: "limited"
+    themes: [
+      "seti-ui"
+      "seti-syntax"
+    ]
+  editor:
+    fontFamily: "Source Code Pro"
+    fontSize: 13
+    scrollPastEnd: true
+  "exception-reporting":
+    userId: "e8ee2b40-96fd-4271-8e06-1842da1e8605"
+  "highlight-line":
+    enableUnderline: true
+    hideHighlightOnSelect: true
+    underline: "dotted"
+  "highlight-selected": {}
+  "linter-flake8":
+    executablePath: "/Users/azec1/.pyenv/versions/2.7.13/Python.framework/Versions/2.7/bin/flake8"
+  "linter-pycodestyle":
+    executablePath: "/Users/azec1/.pyenv/shims/pycodestyle"
+  minimap:
+    plugins:
+      "highlight-selected": true
+      "highlight-selectedDecorationsZIndex": 0
+  "package-sync":
+    createOnChange: true
+    forceOverwrite: true
+  "python-autopep8":
+    formatOnSave: true
+  "seti-ui":
+    compactView: true
+    themeColor: "Yellow"
+  welcome:
+    showOnStartup: false
