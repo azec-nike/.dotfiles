@@ -54,5 +54,7 @@ Steps for GO setup:
 
 7. StackOverflow for package-sync:
    https://goo.gl/438AGd
-
-8. 
+   https://discuss.atom.io/t/syncing-settings-packages-between-machines/1385/26
+   https://pawelgrzybek.com/sync-atom-between-multiple-devices/
+   https://discuss.atom.io/t/installed-packages-list-into-single-file/12227/2 
+8.
