@@ -4,20 +4,22 @@
 1. Install GO from online darwin binary: https://golang.org/dl/
 2. Install go packages:
 
-  go get -u golang.org/x/tools/cmd/...
-  go get -u github.com/golang/lint
-  go get -u github.com/nsf/gocode
-  go get -u golang.org/x/tools/cmd/goimports
-  go get -u golang.org/x/tools/cmd/gorename
-  go get -u github.com/sqs/goreturns
-  go get -u github.com/nsf/gocode
-  go get -u github.com/alecthomas/gometalinter
-  go get -u github.com/zmb3/gogetdoc
-  go get -u github.com/zmb3/goaddimport
-  go get -u github.com/rogpeppe/godef
-  go get -u golang.org/x/tools/cmd/guru
-  go get -u github.com/fatih/gomodifytags
-  go get -u github.com/tpng/gopkgs
+    ```
+      go get -u golang.org/x/tools/cmd/...
+      go get -u github.com/golang/lint`
+      go get -u github.com/nsf/gocode
+      go get -u golang.org/x/tools/cmd/goimports
+      go get -u golang.org/x/tools/cmd/gorename
+      go get -u github.com/sqs/goreturns
+      go get -u github.com/nsf/gocode
+      go get -u github.com/alecthomas/gometalinter
+      go get -u github.com/zmb3/gogetdoc
+      go get -u github.com/zmb3/goaddimport
+      go get -u github.com/rogpeppe/godef
+      go get -u golang.org/x/tools/cmd/guru
+      go get -u github.com/fatih/gomodifytags
+      go get -u github.com/tpng/gopkgs
+    ```
 
 3. Install Atom Editor packages (or sync them from .dotfiles):
 
@@ -63,4 +65,4 @@
 ### GO Web Frameworks
 
     1.  [Gin](https://gin-gonic.github.io/gin/)
-    1.  [] 
+    1.  []
