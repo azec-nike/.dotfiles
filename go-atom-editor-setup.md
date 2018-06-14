@@ -23,39 +23,39 @@
 
 3. Install Atom Editor packages (or sync them from .dotfiles):
 
-    go-imports
-    go-rename
-    go-plus
-    platformio-ide-terminal (Ctrl + `)
+   Required:
 
-    Recommended:
+   ```
+      go-imports
+      go-rename
+      go-plus
+      platformio-ide-terminal
+   ```
 
-    atom-beautify
-    atom-bootstrap3
-    auto-detect-indentation
-    autoclose-html
-    color-picker
-    atom-file-icons
-    highlight-line
-    highlight-selected
-    linter
-    linter-csslint
-    linter-htmlhint
-    minimap
-    minimap-highlight-selected
+   Recommended:
 
+   ```
+      atom-beautify
+      atom-bootstrap3
+       auto-detect-indentation
+       autoclose-html
+       color-picker
+       atom-file-icons
+       highlight-line
+       highlight-selected
+       linter
+       linter-csslint
+       linter-htmlhint
+       minimap
+       minimap-highlight-selected
+   ```
 
-4. Themes:
-    Set UI - dark theme for atom easy on your eyes.
-    Monokai Slate - syntax highlighting style, really should be default.
+4. Install some cool Atom themes:
 
-5. Run export of the packages:
-   apm list --installed --bare > package-list.txt
+    * Set UI - dark theme for atom easy on your eyes.
+    * Monokai Slate - syntax highlighting style, really should be default.
 
-6. Atom version:
-   1.27.2
-
-7. StackOverflow for package-sync:
+5. StackOverflow for package-sync:
    https://goo.gl/438AGd
    https://discuss.atom.io/t/syncing-settings-packages-between-machines/1385/26
    https://pawelgrzybek.com/sync-atom-between-multiple-devices/
@@ -64,5 +64,15 @@
 
 ### GO Web Frameworks
 
-    1.  [Gin](https://gin-gonic.github.io/gin/)
-    1.  []
+    1. [Gin](https://gin-gonic.github.io/gin/)
+    2. [Beego](https://beego.me/)
+    3. [Revel](https://revel.github.io/)
+    4.
+
+### Reading about Go for web
+
+    1. [React Native: Why and How to Build Your Native Code in Go][react-go]
+
+
+
+[react-go](https://hackernoon.com/react-native-why-and-how-to-build-your-native-code-in-go-9fee492f0daa)
