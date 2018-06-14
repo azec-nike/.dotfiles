@@ -1,4 +1,5 @@
-Steps for GO setup:
+
+### Steps for GO setup
 
 1. Install GO from online darwin binary: https://golang.org/dl/
 2. Install go packages:
@@ -56,5 +57,10 @@ Steps for GO setup:
    https://goo.gl/438AGd
    https://discuss.atom.io/t/syncing-settings-packages-between-machines/1385/26
    https://pawelgrzybek.com/sync-atom-between-multiple-devices/
-   https://discuss.atom.io/t/installed-packages-list-into-single-file/12227/2 
-8.
+   https://discuss.atom.io/t/installed-packages-list-into-single-file/12227/2
+
+
+### GO Web Frameworks
+
+    1.  [Gin](https://gin-gonic.github.io/gin/)
+    1.  [] 
