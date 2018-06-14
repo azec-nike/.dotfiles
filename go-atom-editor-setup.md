@@ -56,23 +56,20 @@
     * Monokai Slate - syntax highlighting style, really should be default.
 
 5. StackOverflow for package-sync:
-   https://goo.gl/438AGd
-   https://discuss.atom.io/t/syncing-settings-packages-between-machines/1385/26
-   https://pawelgrzybek.com/sync-atom-between-multiple-devices/
-   https://discuss.atom.io/t/installed-packages-list-into-single-file/12227/2
+   * https://goo.gl/438AGd
+   * https://discuss.atom.io/t/syncing-settings-packages-between-machines/1385/26
+   * https://pawelgrzybek.com/sync-atom-between-multiple-devices/
+   * https://discuss.atom.io/t/installed-packages-list-into-single-file/12227/2
 
 
 ### GO Web Frameworks
 
-    1. [Gin](https://gin-gonic.github.io/gin/)
-    2. [Beego](https://beego.me/)
-    3. [Revel](https://revel.github.io/)
-    4.
+1.[Gin](https://gin-gonic.github.io/gin/)
+2.[Beego](https://beego.me/)
+3.[Revel](https://revel.github.io/)
+4.
 
 ### Reading about Go for web
 
-    1. [React Native: Why and How to Build Your Native Code in Go][react-go]
-
-
-
-[react-go](https://hackernoon.com/react-native-why-and-how-to-build-your-native-code-in-go-9fee492f0daa)
+    1. [React Native: Why and How to Build Your Native Code in Go](https://goo.gl/9GdMeE)
+    2.
