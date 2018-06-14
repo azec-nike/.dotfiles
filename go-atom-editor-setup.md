@@ -64,10 +64,10 @@
 
 ### GO Web Frameworks
 
-1.[Gin](https://gin-gonic.github.io/gin/)
-2.[Beego](https://beego.me/)
-3.[Revel](https://revel.github.io/)
-4.
+1. [Gin](https://gin-gonic.github.io/gin/)
+1. [Beego](https://beego.me/)
+1. [Revel](https://revel.github.io/)
+1. 
 
 ### Reading about Go for web
 
