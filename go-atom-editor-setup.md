@@ -77,4 +77,4 @@
 
 ### Reading about Go for web
 
-    1. [React Native: Why and How to Build Your Native Code in Go](https://goo.gl/9GdMeE)
+ 1. [React Native: Why and How to Build Your Native Code in Go](https://goo.gl/9GdMeE)
