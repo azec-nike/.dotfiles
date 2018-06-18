@@ -62,14 +62,19 @@
    * https://discuss.atom.io/t/installed-packages-list-into-single-file/12227/2
 
 
+### Go Readings
+
+1. [List of known books](https://github.com/dariubs/GoBooks)
+1. [Golang Learn Wiki](https://github.com/golang/go/wiki/Learn)
+
 ### GO Web Frameworks
 
 1. [Gin](https://gin-gonic.github.io/gin/)
 1. [Beego](https://beego.me/)
 1. [Revel](https://revel.github.io/)
-1. 
+1. [GOA - microservice APIs](https://goa.design/)
+1. [Other frameworks](https://goo.gl/AKxuv5)
 
 ### Reading about Go for web
 
     1. [React Native: Why and How to Build Your Native Code in Go](https://goo.gl/9GdMeE)
-    2.
